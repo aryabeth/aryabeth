@@ -1,6 +1,7 @@
 <!-- ### Hi there 👋 -->
 <h1 align="center">Hi there 👋, I'm Arya</h1>
-<h3 align="center">A passionate frontend web developer from Bali, Indonesia </h3>
+<h3 align="center">I'm passionate frontend web developer from Bali, Indonesia.
+I make fun stuff on the internet. </h3>
 
 <!-- 
 **aryabeth/aryabeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +18,7 @@ Here are some ideas to get you started: -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryabeth&show_icons=true&locale=en&layout=compact" height=178 alt="aryabeth" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryabeth&show_icons=true&locale=en" alt="aryabeth" height=178 /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryabeth&show_icons=true&locale=en" alt="aryabeth" height=178 /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryabeth&theme=default" alt="aryabeth" height=178 /></p>
 
