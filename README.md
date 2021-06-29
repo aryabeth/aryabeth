@@ -31,4 +31,4 @@ Here are some ideas to get you started: -->
 [![Instagram](https://img.shields.io/badge/Instagram-D92E6C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aryabeth)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aryabeth)
 [![Youtube](https://img.shields.io/badge/Youtube-ff0400?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCQZEcJVponzoAns_8aGly9w)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryabeth?tab=follow)
+<!-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryabeth?tab=follow) -->
