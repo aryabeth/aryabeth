@@ -3,10 +3,7 @@
 <h3 align="center">I'm passionate frontend web developer from Bali, Indonesia.
 I make fun stuff on the internet. </h3>
 
-<!-- 
-**aryabeth/aryabeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on <a href="https://github.com/kesato" target="_blank">Kesato.co</a>
 - 👨‍💻 All of my projects are available [here](https://aryabeth.github.io/#portfolio)
