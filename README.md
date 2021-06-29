@@ -8,7 +8,7 @@
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on <a href="https://github.com/kesato" target="_blank">Kesato.co</a>
-- 👨‍💻 All of my projects are available here [here](https://aryabeth.github.io/#portfolio)
+- 👨‍💻 All of my projects are available [here](https://aryabeth.github.io/#portfolio)
 - 🌱 I’m currently learning Next.js
 
 
