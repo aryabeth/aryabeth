@@ -9,7 +9,6 @@ I make fun stuff on the internet. </h3>
 - 👨‍💻 All of my projects are available [here](https://aryabeth.github.io/#portfolio)
 - 🌱 I’m currently learning Next.js
 - 👯 I’m looking to collaborate on any projects
-- 🤔 I’m looking for help with any new hot technical stuff
 - 💬 Ask me about anything
 - 📫 How to reach me: aryabwidyatmika@gmail.com or aryabwidyatmika@ti.ukdw.ac.id
 
