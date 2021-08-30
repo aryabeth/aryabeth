@@ -1,7 +1,6 @@
 <!-- ### Hi there 👋 -->
 <h1 align="center">Hi there 👋, I'm Arya</h1>
-<h3 align="center">I'm passionate frontend web developer from Bali, Indonesia.
-I make fun stuff on the internet. </h3>
+<h3 align="center">I'm passionate frontend web developer from Bali, Indonesia. </h3>
 
 
 
