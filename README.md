@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/kesato" target="_blank">Kesato.co</a>
 - 👨‍💻 All of my projects are available [here](https://aryabeth.github.io/#portfolio)
-- 🌱 I’m currently learning Next.js & Frontity
+- 🌱 I’m currently learning Next.js, Payload CMS, & Webflow
 - 👯 I’m looking to collaborate on any projects
 - 💬 Ask me about anything
 - 📫 How to reach me: aryabwidyatmika@gmail.com or aryabwidyatmika@ti.ukdw.ac.id
