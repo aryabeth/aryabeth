@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋, I'm Arya</h1>
 <h3 align="center">I'm passionate frontend web developer from Bali, Indonesia. </h3>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryabeth&label=Profile%20views&color=0e75b6&style=flat" alt="aryabeth" /> </p>
 
 - 🔭 I’m currently working on <a href="https://github.com/kesato" target="_blank">Kesato.co</a>
 - 👨‍💻 All of my projects are available [here](https://aryabeth.github.io/#portfolio)
