@@ -19,7 +19,7 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryabeth&show_icons=true&locale=en" alt="aryabeth" height=178 /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryabeth&theme=default" alt="aryabeth" height=178 /></p>
+<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=aryabeth&theme=default](https://camo.githubusercontent.com/965917ad747c8a470419095db98a5e3282b703c1f8858f4416716716b0385368/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6172796162657468267468656d653d64656661756c74)" alt="aryabeth" height=178 /></p>
 
 ### Let's connect!
 
