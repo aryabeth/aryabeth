@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryabeth&label=Profile%20views&color=0e75b6&style=flat" alt="aryabeth" /> </p>
 
 - 🔭 I’m currently working on <a href="https://github.com/kesato" target="_blank">Kesato.co</a>
-- 👨‍💻 All of my projects are available [here](https://aryabeth.github.io/#portfolio)
+- 👨‍💻 All of my projects are available [here](https://aryabeth.com/#portfolio)
 - 🌱 I’m currently learning Next.js, Payload CMS, & Webflow
 - 👯 I’m looking to collaborate on any projects
 - 💬 Ask me about anything
